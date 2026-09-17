@@ -1,9 +1,3 @@
-libyaml (0.2.5-3) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 17:01:11 +0800
-
 libyaml (0.2.5-2) unstable; urgency=medium
 
   * [61a6bd0] d/clean: fully clean source tree after build (Closes: #1047251)
