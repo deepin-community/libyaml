@@ -1,3 +1,12 @@
+libyaml (0.2.5-2deepin2) unstable; urgency=medium
+
+  * fix(cve): CVE-2026-44842 (unknown) - Limit depth of nesting by
+    default   Upstream:
+    https://github.com/yaml/libyaml/commit/51843fe48257c6b7b6e70cdec1db6
+    34f64a40818
+
+ -- deepin-ci-robot <packages@deepin.org>  Mon, 23 Nov 2026 23:15:42 +0800
+
 libyaml (0.2.5-2deepin1) unstable; urgency=medium
 
   * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
